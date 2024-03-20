@@ -2,4 +2,4 @@
   <img src="https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn&type=transparent&color=gradient&height=100"/> 
 </p>
 
-scr tagu <https://tenor.com/cs/view/kyousuke-hori-horimiya-kyosuke-hori-gif-21400111>
+<img scr="https://tenor.com/cs/view/kyousuke-hori-horimiya-kyosuke-hori-gif-21400111">
