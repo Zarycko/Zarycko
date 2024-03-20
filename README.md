@@ -4,5 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?text=HeyVšichni!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> 
 </p>
 
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 
-<a href=" https://www.instagram.com/thepiyushmalhotra/ ">   <img height="50" src=" https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c -b14e-81f0a3f83a06.png "/> </a>
+
